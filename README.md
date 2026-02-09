@@ -9,3 +9,7 @@
 ![Forge Installs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fforge-vtt.com%2Fapi%2Fbazaar%2Fpackage%2Fpf2e-reroll-settings&query=package.installs&suffix=%25&label=Forge%20Installs&color=4aa94a)
 
 A simple module that allows you to adjust the default roll that is kept when rerolling using a resource such as Hero Points or Mythic Points.
+
+![Settings Example 1](https://raw.githubusercontent.com/7H3LaughingMan/assets/refs/heads/main/pf2e-reroll-settings/settings_1.webp)
+
+![Settings Example 2](https://raw.githubusercontent.com/7H3LaughingMan/assets/refs/heads/main/pf2e-reroll-settings/settings_2.webp)
