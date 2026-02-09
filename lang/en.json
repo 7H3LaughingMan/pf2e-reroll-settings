@@ -1,0 +1,15 @@
+{
+    "PF2eRerollSettings": {
+        "Settings": {
+            "KeepMode": {
+                "Name": "Default Reroll Mode",
+                "Hint": "Changes the default roll to keep when resources are spent to reroll.",
+                "Choices": {
+                    "KeepNew": "Keep New Result",
+                    "KeepHigher": "Keep Higher Result",
+                    "KeepLower": "Keep Lower Result"
+                }
+            }
+        }
+    }
+}

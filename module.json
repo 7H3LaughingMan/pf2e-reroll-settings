@@ -1,0 +1,60 @@
+{
+    "id": "pf2e-reroll-settings",
+    "title": "PF2e Reroll Settings",
+    "description": "Adjusts the default roll to keep when rerolling using a resource.",
+    "version": "7.0.0",
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13",
+        "maximum": "13"
+    },
+    "authors": [
+        {
+            "name": "7H3LaughingMan",
+            "discord": "7h3laughingman",
+            "url": "https://github.com/7H3LaughingMan"
+        }
+    ],
+    "esmodules": ["dist/pf2e-reroll-settings.js"],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "relationships": {
+        "systems": [
+            {
+                "id": "pf2e",
+                "type": "system",
+                "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/v13-dev/system.pf2e.json",
+                "compatibility": {
+                    "minimum": "7.10.0"
+                }
+            },
+            {
+                "id": "sf2e",
+                "type": "system",
+                "manifest": "https://raw.githubusercontent.com/foundryvtt/pf2e/v13-dev/system.sf2e.json",
+                "compatibility": {
+                    "minimum": "0.0.4"
+                }
+            }
+        ],
+        "requires": [
+            {
+                "id": "lib-wrapper",
+                "type": "module",
+                "manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json"
+            }
+        ]
+    },
+    "url": "https://github.com/7H3LaughingMan/pf2e-reroll-settings",
+    "manifest": "https://github.com/7H3LaughingMan/pf2e-reroll-settings/raw/main/module.json",
+    "download": "https://github.com/7H3LaughingMan/pf2e-reroll-settings/archive/refs/heads/main.zip",
+    "license": "https://github.com/7H3LaughingMan/pf2e-reroll-settings/blob/main/LICENSE",
+    "readme": "https://github.com/7H3LaughingMan/pf2e-reroll-settings/blob/main/README.md",
+    "bugs": "https://github.com/7H3LaughingMan/pf2e-reroll-settings/issues",
+    "changelog": "https://github.com/7H3LaughingMan/pf2e-reroll-settings/blob/main/CHANGELOG.md"
+}
