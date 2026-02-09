@@ -3,7 +3,7 @@
         "Settings": {
             "KeepMode": {
                 "Name": "Default Reroll Mode",
-                "Hint": "Changes the default roll to keep when resources are spent to reroll.",
+                "Hint": "Changes the default roll that is kept when resources such as Hero Points or Mythic Points are spent to reroll.",
                 "Choices": {
                     "KeepNew": "Keep New Result",
                     "KeepHigher": "Keep Higher Result",
